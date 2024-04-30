@@ -2,4 +2,7 @@ Checklist
     1. git init
     2. Add file to repo 
     3. git add <filename> or add . for all files
-    4. git commit -m "commit message"  
+    4. git commit -m "commit message" 
+    5. Create a remote repo on Github 
+    6. Link the local repo to the remote repo 
+    7. Push changes to Github remote repo 
